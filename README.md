@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=cef5a2&height=250&section=header&text=Welcome%20to%20Yunu's%20Github&fontSize=50&fontColor=ffffff" />
 
-<a>📧email📧</a>
+<a>📧Email📧</a>
+jyw990802@gmail.com
+dusdn5774@naver.com
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
@@ -42,9 +44,9 @@
 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunuyununu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true&width="42%" )
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunuyununu)](https://github.com/anuraghazra/github-readme-stats)
+[![Yunu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunuyununu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yunuyununu/yunuyununu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
