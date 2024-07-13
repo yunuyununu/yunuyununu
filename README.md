@@ -7,6 +7,7 @@
   </div>
 <br>
 <h3 align="center">📚 I leaned.. 📚</h3>
+<br>
  <div align="center">✨ Platforms & Languages ✨</div>
  <div align="center">
  <img src="https://img.shields.io/badge/Java-1E8CBE?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -29,7 +30,9 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></div>
+<br>
  <div align="center">🛠️ Tools 🛠️</div>
+ <br>
  <div align="center">
    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
