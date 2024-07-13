@@ -62,7 +62,7 @@
 
 [![Yunu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunuyununu)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>About Me..</h3>
+<h3>😄About Me..😄</h3>
 <div align="center">
   <a href="https://github.com/yunuyununu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
