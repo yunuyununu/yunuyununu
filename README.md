@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=cef5a2&height=250&section=header&text=Welcome%20to%20Yunu's%20Github&fontSize=50&fontColor=ffffff" />
 
-<div>📧Email
+<div align=center>📧Email
   <div>jyw990802@gmail.com</div>
   <div>dusdn5774@naver.com</div>
 </div>
