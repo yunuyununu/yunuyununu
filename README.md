@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+     <img src="https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=white" />
   </div>
 <br>
 <a href="s">
@@ -63,6 +63,11 @@
 
 [![Yunu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunuyununu)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3>About Me..</h3>
+<div align="center">
+  <a href="https://github.com/yunuyununu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</div>
 <!--
 **yunuyununu/yunuyununu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
