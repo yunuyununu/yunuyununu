@@ -44,7 +44,9 @@ dusdn5774@naver.com
 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true&width="42%" )
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=yunuyununu&show_icons=true" width="42%" />
+</a>
 
 [![Yunu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunuyununu)](https://github.com/anuraghazra/github-readme-stats)
 
