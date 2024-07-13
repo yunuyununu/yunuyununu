@@ -1,13 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=cef5a2&height=250&section=header&text=Welcome%20to%20Yunu's%20Github&fontSize=50&fontColor=ffffff" />
 
-<div align=center>📧Email
-  <div>jyw990802@gmail.com</div>
-  <div>dusdn5774@naver.com</div>
-</div>
+<h3 align="center">📧Email📧</h3>
+  <p align="center">
+    <div>jyw990802@gmail.com</div>
+    <div>dusdn5774@naver.com</div>
+  </p>
+<br>
+<h3 align="center">📚I learned..📚</h3>
 
-<div align=center>📌I learned..</div>
-
-<div align=center>✏️I'm learning..</div>
+<h3 align="center">✏️I'm learning..✏️</h3>
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
