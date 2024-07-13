@@ -9,6 +9,7 @@
 <h3 align="center">📚 I leaned.. 📚</h3>
 <br>
  <div align="center">✨ Platforms & Languages ✨</div>
+ <br>
  <div align="center">
  <img src="https://img.shields.io/badge/Java-1E8CBE?style=for-the-badge&logo=openjdk&logoColor=white" />
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,17 +47,11 @@
   <div align="center"></div>
   <div align="center">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-    
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    
   </div>
 
 <a href="s">
