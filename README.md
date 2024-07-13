@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=cef5a2&height=250&section=header&text=Welcome%20to%20Yunu's%20Github&fontSize=50&fontColor=ffffff" />
 
 <h3 align="center">📧 Email 📧</h3>
-  <a align="center">
+  <div align="center">
     <div>jyw990802@gmail.com</div>
     <div>dusdn5774@naver.com</div>
-  </a>
+  </div>
 <br>
 <h3 align="center">📚 I learned.. 📚</h3>
 
