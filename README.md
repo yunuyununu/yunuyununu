@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </div>
-
+<br>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunuyununu&exclude_repo=yunuyununu.github.io&layout=compact" />
 </a>
