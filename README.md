@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=cef5a2&height=250&section=header&text=Welcome%20to%20Yunu's%20Github&fontSize=50&fontColor=f4f5f2" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=cef5a2&height=250&section=header&text=Welcome%20to%20Yunu's%20Github&fontSize=50&fontColor=f7f7f5" />
 
 <!--
 **yunuyununu/yunuyununu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
