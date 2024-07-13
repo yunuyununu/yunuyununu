@@ -6,6 +6,7 @@
     <div>dusdn5774@naver.com</div>
   </div>
 <br>
+<br>
 <h3 align="center">📚 I leaned.. 📚</h3>
 <br>
  <div align="center">✨ Platforms & Languages ✨</div>
@@ -43,7 +44,9 @@
    
  </div>
 <br>
+<br>
 <h3 align="center">✏️ I'm learning.. ✏️</h3>
+<br>
   <div align="center"></div>
   <div align="center">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
