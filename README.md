@@ -5,7 +5,10 @@
   <div>dusdn5774@naver.com</div>
 </div>
 
-<a>✍️Stack</a>
+<div align=center>📌I learned..</div>
+
+<div align=center>✏️I'm learning..</div>
+
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
