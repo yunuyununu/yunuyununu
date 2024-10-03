@@ -12,14 +12,12 @@
  <div align="center">◻️ Back-End ◻️</div>
   <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/SpringSecurity-6dd33f?style=for-the-badge&logoColor=white" />
-            <img src="https://img.shields.io/badge/JSP/Servlet-d3d3d3?style=for-the-badge&logoColor=black" />
-        <img src="https://img.shields.io/badge/MyBatis-b61a20?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/JPA:Hibernate-59666C?style=for-the-badge&logoColor=white" />
-
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringSecurity-6dd33f?style=for-the-badge&logo=springsecurity&logoColor=white" />
+    <img src="https://img.shields.io/badge/JSP/Servlet-d3d3d3?style=for-the-badge&logoColor=black" />
+   <img src="https://img.shields.io/badge/MyBatis-b61a20?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/JPA:Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" />
 
@@ -56,9 +54,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
      <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" />
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   
    <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white" />
