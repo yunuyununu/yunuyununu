@@ -10,6 +10,7 @@
 <h3 align="center">📚 I leaned.. 📚</h3>
 <br>
  <div align="center">◻️ Back-End ◻️</div>
+ <br>
   <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -22,8 +23,9 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" />
 
   </div>
-
+<br>
 <div align="center">◻️ DB ◻️</div>
+<br>
   <div align="center">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -34,7 +36,9 @@
 
 
   </div>
+  <br>
  <div align="center">◻️ Front-End ◻️</div>
+ <br>
   <div align="center">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -48,7 +52,9 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></div>
 
   </div>
+  <br>
   <div align="center">◻️ Tools ◻️</div>
+  <br>
   <div align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
