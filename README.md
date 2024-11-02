@@ -80,6 +80,7 @@
 <h3 align="center">😄About Me..😄</h3>
 <div align="center">
   <a href="https://github.com/yunuyununu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://velog.io/@yunuyununu/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black" />
 </div>
 <!--
